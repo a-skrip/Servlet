@@ -14,7 +14,7 @@ public class ByeServlet extends HttpServlet {
         PrintWriter writer = response.getWriter();
 
         try {
-            writer.println("<h1>ПьятниЦЦО!!!!!</h1>");
+            writer.println("<h1>HELLO_FRIDAY</h1>");
         } finally {
             writer.close();
         }

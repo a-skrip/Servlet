@@ -21,7 +21,7 @@ public class ColorTextServlet extends HttpServlet {
             out.println("<html>");
 //            out.println("<head> <title> ColorTextServlet </title> </head>");
             out.println("<body>");
-            out.println("<h1 style=\"color: blue\">ПревеД___******____мЕДВЕд!</h1>");
+            out.println("<h1 style=\"color: blue\">HELLO_BEAR</h1>");
             out.println("<h2 style=\"color: red\">******</h2>");
             out.println("<a href=\"ByeServlet\">ссылка</a><br>");
             out.println("</body>");
